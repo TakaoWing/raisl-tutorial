@@ -1,3 +1,11 @@
+#Ruby on Rails Tutorial
+
+## "hello,world!"
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](http:railstutorial.jp/)
+by[Michael Hart](htpp://www.michealhart.com/).Hello,world!
+
 
     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
